@@ -3,7 +3,7 @@
 <h3 align="center">FullStack Designer | FrontEnd Developer | Industrial Designer | UX/UI Designer </h3>
 <h3 align="center"> - from Argentina, living in Málaga Spain </h3>
 
-- 🔭 I’m currently working on [NEXPLORE](https://www.nexplore.com/)
+- 🔭 I’m currently working on [HOTELBEDS](https://discover.hotelbeds.com/)
 
 - 🌱 I’m currently learning **Procreate sketching, 3D sculpt, Blender, Unity**
 
