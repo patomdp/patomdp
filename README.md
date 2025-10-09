@@ -1,17 +1,17 @@
 
 <h1 align="center">Hi 👋, I'm Patricio Mariano</h1>
-<h3 align="center">FullStack Designer | FrontEnd Developer | Industrial Designer | UX/UI Designer </h3>
+<h3 align="center"> FullStack Designer | FrontEnd Developer | Industrial Designer | UX/UI Designer </h3>
 <h3 align="center"> - from Argentina, living in Málaga Spain </h3>
 
-- 🔭 I’m currently working on [HOTELBEDS](https://discover.hotelbeds.com/)
+- 🔭 I’m currently working on [MALAWEBS](https://malawebs.com)
+
+- 🔭 My last employer was [HOTELBEDS](https://discover.hotelbeds.com/)
 
 - 🌱 I’m currently learning **Procreate sketching, 3D sculpt, Blender, Unity**
 
 - 👨‍💻 All of my projects are available at [https://patriciomariano.com/](https://patriciomariano.com/)
 
-- 📝 I regularly write articles on [http://blog.patriciomariano.com/](http://blog.patriciomariano.com/)
-
-- 💬 Ask me about **Design, Art and Technology, XR/AR, 3D**
+- 💬 Ask me about **Design, Art and Technology**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/patriciomariano/](https://www.linkedin.com/in/patriciomariano/)
 
